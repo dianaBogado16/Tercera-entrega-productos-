@@ -1,0 +1,73 @@
+.titulo {
+    font-family:Impact, Charcoal, sans-serif;
+    text-align: center;
+    color: #688495;
+    background-color: white;
+}
+
+body {
+    background-color: #273238;
+}
+
+.texto-blanco {
+    color: white;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+.subtitulo-aspiradora{
+    font-family: Impact, Charcoal, sans-serif ;
+    font-style: italic;
+    color: rgb(220,209,195);
+}
+
+.subtitulo-celulares{
+    font-family: Impact, Charcoal, sans-serif;
+    font-style: italic;
+    color: rgb(165,193,195);
+}
+
+.subtitulo-consolas{
+    font-family: Impact, Charcoal, sans-serif;
+    font-style: italic;
+    color: rgb(186,191,188);
+}
+
+.subtitulo-home{
+    font-family: Impact, Charcoal, sans-serif;
+    font-style: italic;
+    color: rgb(139,149,159);
+}
+
+.subtitulo-televisor{
+    font-family: Impact, Charcoal, sans-serif;
+    font-style: italic;
+    color: rgb(176,179,179);
+}
+
+.imagen-aspiradora {
+    border: 7px solid rgb(220,209,195);
+}
+
+
+.imagen-celular {
+    border: 7px solid rgb(165,193,195);
+}
+
+
+.imagen-consola {
+    border: 7px solid rgb(186,191,188) ;
+}
+
+
+.imagen-home {
+    border: 7px solid rgb(139,149,159);
+}
+
+
+.imagen-televisor {
+    border: 7px solid rgb(176,179,179) ;
+}
+
+.margen-izquierda {
+    margin-left: 50px;
+}
